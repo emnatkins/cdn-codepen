@@ -1,3 +1,3 @@
 || Title: Chat with the RagBot
 
-|| Address CodePen: https://codepen.io/emnatkins/full/wvjGzXp
+|| URL CodePen: https://codepen.io/emnatkins/full/wvjGzXp
