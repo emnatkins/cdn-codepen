@@ -1,3 +1,3 @@
 || Title: Event Search App
 
-|| Address ConPen: https://codepen.io/emnatkins/full/gOQRaMY
+|| URL CodePen: https://codepen.io/emnatkins/full/gOQRaMY
